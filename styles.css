@@ -1,0 +1,25 @@
+body {
+    background-image: url(BG\ IMG.webp);
+}
+
+.container {
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+    color:sienna;
+}
+
+h2, h3 {
+    color: sienna;
+}
+
+label {
+    color: rosybrown;
+}
+
+button {
+    color: sienna;
+    
+}
